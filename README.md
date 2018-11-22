@@ -9,3 +9,5 @@ HTML
 
 
 ### History of Type
+
+[History of Type 1](https://cal-orr.github.io/john_baskerville/type1.html)
