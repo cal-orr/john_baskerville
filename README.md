@@ -11,3 +11,7 @@ HTML
 ### History of Type
 
 [History of Type 1](https://cal-orr.github.io/john_baskerville/type1.html)
+
+[History of Type 2]
+
+[History of Type 3]
