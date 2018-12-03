@@ -10,4 +10,5 @@ HTML
 
 ### History of Type
 
+[History of Type 1](file:///Users/calumorr/Desktop/GitHub/john_baskerville/type1.html)
 
