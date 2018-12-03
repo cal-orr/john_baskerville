@@ -16,3 +16,5 @@ HTML
 
 [History of Type 2](https://cal-orr.github.io/john_baskerville/type2.html)
 
+[History of Type 3](https://cal-orr.github.io/john_baskerville/type3.html)
+
