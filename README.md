@@ -11,6 +11,8 @@ HTML
 
 [Baskerville 4](https://cal-orr.github.io/john_baskerville/johnbaskerville4.html)
 
+[Baskerville 5](https://cal-orr.github.io/john_baskerville/johnbaskerville5.html)
+
 
 ### History of Type
 
