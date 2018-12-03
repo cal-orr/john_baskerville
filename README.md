@@ -14,3 +14,5 @@ HTML
 
 [History of Type 1](https://cal-orr.github.io/john_baskerville/type1.html)
 
+[History of Type 2](https://cal-orr.github.io/john_baskerville/type2.html)
+
