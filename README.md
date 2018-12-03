@@ -10,5 +10,4 @@ HTML
 
 ### History of Type
 
-[History of Type 1](https://cal-orr.github.io/Desktop/GitHub/john_baskerville/type1.html)
 
