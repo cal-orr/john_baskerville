@@ -22,3 +22,5 @@ HTML
 
 [History of Type 3](https://cal-orr.github.io/john_baskerville/type3.html)
 
+[History of Type 4](https://cal-orr.github.io/john_baskerville/type4.html)
+
