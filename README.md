@@ -13,6 +13,8 @@ HTML
 
 [Baskerville 5](https://cal-orr.github.io/john_baskerville/johnbaskerville5.html)
 
+[Baskerville 6](https://cal-orr.github.io/john_baskerville/johnbaskerville6.html)
+
 
 ### History of Type
 
