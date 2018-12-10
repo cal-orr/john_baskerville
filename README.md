@@ -26,3 +26,5 @@ HTML
 
 [History of Type 4](https://cal-orr.github.io/john_baskerville/type4.html)
 
+[History of Type 5](https://cal-orr.github.io/john_baskerville/type5.html)
+
